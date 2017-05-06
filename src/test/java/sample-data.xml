@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <table name="university">
+        <column>id</column>
+        <column>name</column>
+        <column>logo</column>
+        <row>
+            <value description="id">-1</value>
+            <value description="name">Çanakkale Onsekiz Mart Üniversitesi</value>
+            <value description="logo">x</value>
+        </row>
+        <row>
+            <value description="id">-2</value>
+            <value description="name">Kocaeli Üniversitesi</value>
+            <value description="logo">x</value>
+        </row>
+        <row>
+            <value description="id">-3</value>
+            <value description="name">Mahmut Tuncer Üniversitesi</value>
+            <value description="logo">d</value>
+        </row>
+    </table>
+
+
+    <table name="announce">
+        <column>id</column>
+        <column>number</column>
+        <column>location</column>
+        <column>title</column>
+        <column>count</column>
+        <column>degree</column>
+        <column>alesPoint</column>
+        <column>ydsPoint</column>
+        <column>applicationStartDate</column>
+        <column>applicationEndDate</column>
+        <column>preEvaluationDate</column>
+        <column>scoreAnnouncedDate</column>
+        <column>examDate</column>
+        <column>applicationType</column>
+        <column>applicationLocation</column>
+        <column>announcedLocation</column>
+        <column>specialConditions</column>
+        <column>generalConditions</column>
+        <column>titleConditions</column>
+        <column>requiredDocument</column>
+        <column>exemption</column>
+        <column>university_id</column>
+        <row>
+            <value description="id">-1</value>
+            <value description="number">252</value>
+            <value description="location">Çanakkale</value>
+            <value description="title">Boteye Hoca Alınacak</value>
+            <value description="count">2</value>
+            <value description="degree">5</value>
+            <value description="alesPoint">70</value>
+            <value description="ydsPoint">50</value>
+            <value description="applicationStartDate">2016-11-05</value>
+            <value description="applicationEndDate">2016-11-12</value>
+            <value description="preEvaluationDate">2016-11-17</value>
+            <value description="scoreAnnouncedDate">2016-11-27</value>
+            <value description="examDate">2016-11-22</value>
+            <value description="applicationType">Posta/Elle</value>
+            <value description="applicationLocation">Çomü BİDB</value>
+            <value description="announcedLocation">http://www.comu.edu.tr</value>
+            <value description="specialConditions">1- 2 yıl tecrübe, 2- Böte Mezuniyet, 3- Java Bilgisi</value>
+            <value description="generalConditions">Ales en az 70, 2 Yıl Tecrübe</value>
+            <value description="titleConditions">Suç işlememiş olmak</value>
+            <value description="requiredDocument">1- Diploma, 2- Kimlik Fotokopi, 3- Transkript</value>
+            <value description="exemption">-</value>
+            <value description="university_id">-1</value>
+        </row>
+    </table>
+
+
+</dataset>
