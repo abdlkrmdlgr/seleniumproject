@@ -20,7 +20,7 @@
         <db.name>announcedb</db.name>
 
         <!--&lt;!&ndash; Framework dependency versions &ndash;&gt;-->
-        <spring.version>4.2.3.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <hibernate.version>4.2.2.Final</hibernate.version>
 
         <!--&lt;!&ndash; Testing dependency versions &ndash;&gt;-->
